@@ -1,0 +1,43 @@
+Thanks for looking at the Big 2 file.
+This is an early version: no jokers, 2 aren't "BIG"
+I would make it into a fully fledged game with a dedicated server, (like microsoft's zone) so you can play it any time
+FOr now you can send the Clients to your friend in order to play.
+BTW it must be a 4 player game
+
+Trouble shooting:
+
+
+XP controls only work when you compile!
+
+INSTRUCTIONS:
+
+
+Testing it out?
+
+Compile prjClient
+Run 3 instances (dbl click 3 times)
+Open server project (or compule)
+RUN (DUH!)
+Click on the COnnect button (after connect should be greyed)
+
+Go to one of the client forms, type in 4568
+Hit connect (wait until label says CONNECTED)
+Hit secure
+Go to another type 4569
+Hit connect (wait until label says CONNECTED)
+Hit secure
+GO to the last type 4570
+Hit connect (wait until label says CONNECTED)
+Hit secure
+
+card screen should pop up
+Click cards to highlight, Click play to play ( i assume you not how to play it, no poker hand)
+Click pass to pass.  Person who gets rid of the cards wins.
+
+
+Yah, it is dumb for playing for 4 players by yourself
+
+Playing with your friends?
+Change the ip address in the client version (you find it yourself) to your ip
+send the exe, winxp.res and pictures in a zip/ folder
+You run the server, and teach them how to connect
